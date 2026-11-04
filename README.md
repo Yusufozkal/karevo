@@ -5,7 +5,7 @@
 
   Haber görsellerinden kısa videolara, sosyal medya içeriklerini tek bir çalışma alanında hazırla.
 
-  [**⬇ Windows için indir · önceki sürüm 3.2.1**](https://github.com/Yusufozkal/bulten-guncellemeler/releases/download/v3.2.1/Bulten-Studio-3.2.1-Setup.exe) &nbsp; · &nbsp; [Tüm sürümler](https://github.com/Yusufozkal/bulten-guncellemeler/releases) &nbsp; · &nbsp; [Kurulum](#kurulum) &nbsp; · &nbsp; [Güncellemeler](#güncellemeler)
+  [**⬇ Karevo’yu Windows için indir · 3.2.2**](https://github.com/Yusufozkal/bulten-guncellemeler/releases/download/karevo-v3.2.2-preview/Karevo-3.2.2-Setup.exe) &nbsp; · &nbsp; [Tüm sürümler](https://github.com/Yusufozkal/bulten-guncellemeler/releases) &nbsp; · &nbsp; [Kurulum](#kurulum) &nbsp; · &nbsp; [Güncellemeler](#güncellemeler)
 
   Windows 10 / 11 &nbsp; • &nbsp; 64 bit
 </div>
@@ -29,10 +29,10 @@ Video düzenleyici tek kliple çalışır. Kaynak video en fazla 5 dakika ve 120
 
 ## Kurulum
 
-Karevo, daha önce **Bülten Studio** adıyla sunuluyordu. Şu anda aşağıdaki bağlantı önceki adla yayımlanan 3.2.1 sürümünü indirir.
+Karevo, daha önce **Bülten Studio** adıyla sunuluyordu. 3.2.2 sürümü şu anda manuel kurulum için sunuluyor.
 
-1. [Windows kurucusunu indir](https://github.com/Yusufozkal/bulten-guncellemeler/releases/download/v3.2.1/Bulten-Studio-3.2.1-Setup.exe).
-2. İndirilen `Bulten-Studio-3.2.1-Setup.exe` dosyasını aç ve kurulum adımlarını izle.
+1. [Karevo Windows kurucusunu indir](https://github.com/Yusufozkal/bulten-guncellemeler/releases/download/karevo-v3.2.2-preview/Karevo-3.2.2-Setup.exe).
+2. İndirilen `Karevo-3.2.2-Setup.exe` dosyasını aç ve kurulum adımlarını izle.
 3. Uygulamayı aç, bir şablon seç ve ilk tasarımını oluştur.
 
 **Gereksinim:** Windows 10 veya Windows 11, 64 bit. Kurucu henüz Windows yayıncı sertifikasıyla imzalanmadığı için Microsoft Defender SmartScreen bir uyarı gösterebilir. Bu sürümün kurulumu gerçek bir Windows cihazında henüz doğrulanmadı.
@@ -45,12 +45,12 @@ Bülten Studio 3.1 ve sonraki sürümlerinde **Güncellemeler → Güncelleme ay
 https://github.com/Yusufozkal/bulten-guncellemeler
 ```
 
-Otomatik denetim açıksa uygulama yeni sürümleri kontrol eder; indirme ve kurulumu sen başlatırsın. 3.0 ve önceki sürümlerde güncel kurucuyu bir kez elle kurmak gerekir.
+Karevo 3.2.2 henüz otomatik güncelleme kanalında değildir; yukarıdaki kurucuyu elle indirmek gerekir. Otomatik denetim açıksa uygulama kanalda yayımlanan sürümleri kontrol eder; indirme ve kurulumu sen başlatırsın. 3.0 ve önceki sürümlerde güncel kurucuyu bir kez elle kurmak gerekir.
 
 Güncelleme bilgileri imza ile doğrulanır; indirilen kurucunun boyutu ve dosya özeti kontrol edilir. Bu doğrulama, Windows yayıncı sertifikasının yerini almaz.
 
 ## Sürümler ve bu depo
 
-[En son sürümü görüntüle](https://github.com/Yusufozkal/bulten-guncellemeler/releases/latest) · [Tüm sürümler ve değişiklikler](https://github.com/Yusufozkal/bulten-guncellemeler/releases)
+[Karevo 3.2.2 sürümünü görüntüle](https://github.com/Yusufozkal/bulten-guncellemeler/releases/tag/karevo-v3.2.2-preview) · [Tüm sürümler ve değişiklikler](https://github.com/Yusufozkal/bulten-guncellemeler/releases)
 
 Bu depo Karevo ve önceki adı Bülten Studio için Windows güncellemelerinin dağıtımı içindir; uygulamanın kaynak kodu burada yayımlanmaz. Çalışmalarını ayrıca `.bulten` dosyası olarak yedeklemen önerilir.
