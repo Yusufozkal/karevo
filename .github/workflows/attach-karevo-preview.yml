@@ -1,0 +1,22 @@
+name: Attach verified Karevo preview
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: attach-karevo-preview
+  cancel-in-progress: false
+jobs:
+  attach:
+    if: github.repository == 'Yusufozkal/bulten-guncellemeler' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - name: Verify and attach the preview installer to its draft
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node publisher/attach-karevo-preview.cjs
