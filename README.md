@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="assets/bulten-banner.svg" alt="Bülten Studio — sosyal medya içerikleri için tasarım ve video düzenleme" width="100%">
+  <img src="assets/bulten-banner.svg" alt="Karevo — sosyal medya içerikleri için tasarım ve video düzenleme" width="100%">
 
   **Hikâyeni tasarla, düzenle ve paylaşmaya hazırla.**
 
   Haber görsellerinden kısa videolara, sosyal medya içeriklerini tek bir çalışma alanında hazırla.
 
-  [**⬇ Windows için indir · v3.2.1**](https://github.com/Yusufozkal/bulten-guncellemeler/releases/download/v3.2.1/Bulten-Studio-3.2.1-Setup.exe) &nbsp; · &nbsp; [Tüm sürümler](https://github.com/Yusufozkal/bulten-guncellemeler/releases) &nbsp; · &nbsp; [Kurulum](#kurulum) &nbsp; · &nbsp; [Güncellemeler](#güncellemeler)
+  [**⬇ Windows için indir · önceki sürüm 3.2.1**](https://github.com/Yusufozkal/bulten-guncellemeler/releases/download/v3.2.1/Bulten-Studio-3.2.1-Setup.exe) &nbsp; · &nbsp; [Tüm sürümler](https://github.com/Yusufozkal/bulten-guncellemeler/releases) &nbsp; · &nbsp; [Kurulum](#kurulum) &nbsp; · &nbsp; [Güncellemeler](#güncellemeler)
 
   Windows 10 / 11 &nbsp; • &nbsp; 64 bit
 </div>
@@ -14,7 +14,7 @@
 
 ## Fikrinden paylaşıma
 
-Bülten Studio; haber sayfaları, içerik üreticileri ve kendi markası için paylaşım hazırlayanlar için bir masaüstü içerik düzenleyicisidir. Hazır şablonlarla başlayabilir, kendi görsellerini ve marka öğelerini kullanarak tasarımını kişiselleştirebilirsin.
+Karevo; içerik üreticileri, haber sayfaları ve kendi markası için paylaşım hazırlayanlar için bir masaüstü içerik düzenleyicisidir. Hazır şablonlarla başlayabilir, kendi görsellerini ve marka öğelerini kullanarak tasarımını kişiselleştirebilirsin.
 
 | Tasarla | Video düzenle | Düzenini koru |
 | --- | --- | --- |
@@ -28,6 +28,8 @@ Bülten Studio; haber sayfaları, içerik üreticileri ve kendi markası için p
 Video düzenleyici tek kliple çalışır. Kaynak video en fazla 5 dakika ve 120 MiB, çıktı ise 0,25–60 saniye olabilir. MP4 ve WebM desteği cihazın kodlayıcılarına göre değişebilir.
 
 ## Kurulum
+
+Karevo, daha önce **Bülten Studio** adıyla sunuluyordu. Şu anda aşağıdaki bağlantı önceki adla yayımlanan 3.2.1 sürümünü indirir.
 
 1. [Windows kurucusunu indir](https://github.com/Yusufozkal/bulten-guncellemeler/releases/download/v3.2.1/Bulten-Studio-3.2.1-Setup.exe).
 2. İndirilen `Bulten-Studio-3.2.1-Setup.exe` dosyasını aç ve kurulum adımlarını izle.
@@ -51,4 +53,4 @@ Güncelleme bilgileri imza ile doğrulanır; indirilen kurucunun boyutu ve dosya
 
 [En son sürümü görüntüle](https://github.com/Yusufozkal/bulten-guncellemeler/releases/latest) · [Tüm sürümler ve değişiklikler](https://github.com/Yusufozkal/bulten-guncellemeler/releases)
 
-Bu depo Windows güncellemelerinin dağıtımı içindir; uygulamanın kaynak kodu burada yayımlanmaz. Çalışmalarını ayrıca `.bulten` dosyası olarak yedeklemen önerilir.
+Bu depo Karevo ve önceki adı Bülten Studio için Windows güncellemelerinin dağıtımı içindir; uygulamanın kaynak kodu burada yayımlanmaz. Çalışmalarını ayrıca `.bulten` dosyası olarak yedeklemen önerilir.
