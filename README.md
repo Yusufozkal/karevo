@@ -5,16 +5,16 @@
 
   Haber görsellerinden kısa videolara, sosyal medya içeriklerini tek bir çalışma alanında hazırla.
 
-  [**⬇ Karevo’yu Windows için indir · 3.2.2**](https://github.com/Yusufozkal/karevo/releases/download/karevo-v3.2.2-preview/Karevo-3.2.2-Setup.exe) &nbsp; · &nbsp; [Sürüm bilgileri](https://github.com/Yusufozkal/karevo/releases/tag/karevo-v3.2.2-preview) &nbsp; · &nbsp; [Kurulum](#kurulum) &nbsp; · &nbsp; [Güncellemeler](#güncellemeler)
+  [**⬇ Windows için indir · 3.2.3**](https://github.com/Yusufozkal/karevo/releases/download/karevo-v3.2.3-preview/Karevo-3.2.3-Setup.exe) &nbsp; · &nbsp; [**⬇ Android için indir · 3.1.3**](https://github.com/Yusufozkal/karevo/releases/download/karevo-v3.2.3-preview/Karevo-3.1.3-Android.apk) &nbsp; · &nbsp; [Sürüm bilgileri](https://github.com/Yusufozkal/karevo/releases/tag/karevo-v3.2.3-preview) &nbsp; · &nbsp; [Kurulum](#kurulum) &nbsp; · &nbsp; [Güncellemeler](#güncellemeler)
 
-  Windows 10 / 11 &nbsp; • &nbsp; 64 bit &nbsp; • &nbsp; Manuel kurulum
+  Windows 10 / 11 · 64 bit &nbsp; • &nbsp; Android 8+ &nbsp; • &nbsp; Manuel kurulum
 </div>
 
 ---
 
 ## Fikrinden paylaşıma
 
-Karevo; içerik üreticileri, haber sayfaları ve kendi markası için paylaşım hazırlayanlar için bir masaüstü içerik düzenleyicisidir. Hazır şablonlarla başlayabilir, kendi görsellerini ve marka öğelerini kullanarak tasarımını kişiselleştirebilirsin.
+Karevo; içerik üreticileri, haber sayfaları ve kendi markası için paylaşım hazırlayanlar için bir görsel ve video içerik düzenleyicisidir. Hazır şablonlarla başlayabilir, kendi görsellerini ve marka öğelerini kullanarak tasarımını kişiselleştirebilirsin.
 
 | Tasarla | Video düzenle | Düzenini koru |
 | --- | --- | --- |
@@ -25,15 +25,25 @@ Karevo; içerik üreticileri, haber sayfaları ve kendi markası için paylaşı
 - **Kısa videolar ve animasyonlar:** Videonun başlangıç ve bitişini zaman çizelgesinden seç, oynatma konumunu kontrol et ve animasyonlu içerikler hazırla.
 - **Kendi çalışma alanın:** Projelerini kaydedip daha sonra düzenlemeye devam et. Video işleme cihazında yapılır.
 
+<img src="assets/karevo-preview.png" alt="Karevo düzenleyicisinde yeni K simgesi, şablonlar ve tasarım çalışma alanı" width="100%">
+
 Video düzenleyici tek kliple çalışır. Kaynak video en fazla 5 dakika ve 120 MiB, çıktı ise 0,25–60 saniye olabilir. MP4 ve WebM desteği cihazın kodlayıcılarına göre değişebilir.
 
 ## Kurulum
 
-1. [Karevo Windows kurucusunu indir](https://github.com/Yusufozkal/karevo/releases/download/karevo-v3.2.2-preview/Karevo-3.2.2-Setup.exe).
-2. İndirilen `Karevo-3.2.2-Setup.exe` dosyasını aç ve kurulum adımlarını izle.
+**Windows**
+
+1. [Karevo Windows kurucusunu indir](https://github.com/Yusufozkal/karevo/releases/download/karevo-v3.2.3-preview/Karevo-3.2.3-Setup.exe).
+2. İndirilen `Karevo-3.2.3-Setup.exe` dosyasını aç ve kurulum adımlarını izle.
 3. Uygulamayı aç, bir şablon seç ve ilk tasarımını oluştur.
 
 **Gereksinim:** Windows 10 veya Windows 11, 64 bit. Kurulumdan önce mevcut çalışmalarını proje dosyası olarak yedekle.
+
+**Android**
+
+[Karevo Android APK’sını indir](https://github.com/Yusufozkal/karevo/releases/download/karevo-v3.2.3-preview/Karevo-3.1.3-Android.apk), dosyayı aç ve kurulum adımlarını izle. Android 8 veya üzeri gerekir. Karevo yeni, bağımsız bir uygulama olarak eski sürümün yanında kurulur. Eski uygulamadaki çalışmalarını proje dosyası olarak dışa aktararak Karevo’da açabilirsin.
+
+**Projeler:** Yeni kayıtlar `.karevo` uzantısını kullanır. Eski `.bulten` ve `.netice` projeleri de açılabilir.
 
 <details>
 <summary>Windows uyarısı ve doğrulama bilgileri</summary>
@@ -44,7 +54,7 @@ Kurucu henüz Windows yayıncı sertifikasıyla imzalanmadığı için Microsoft
 
 ## Güncellemeler
 
-Karevo 3.2.2 şu anda manuel kurulumla sunuluyor; yukarıdaki kurucuyu indirerek kurabilirsin. Bu sürüm otomatik güncelleme kanalına eklenmedi.
+Karevo 3.2.3 şu anda manuel kurulumla sunuluyor; yukarıdaki kurucuyu indirerek kurabilirsin. Bu sürüm otomatik güncelleme kanalına eklenmedi. Android sürümü de bu sayfadaki APK ile elle güncellenir.
 
 Uygulamanın **Güncellemeler → Güncelleme ayarları** bölümünde kullanılabilecek depo adresi:
 
@@ -56,16 +66,16 @@ Otomatik denetim açıksa uygulama imzalı kanalda yayımlanan sürümleri kontr
 
 ## Sürümler ve arşiv
 
-[Karevo 3.2.2 sürümünü görüntüle](https://github.com/Yusufozkal/karevo/releases/tag/karevo-v3.2.2-preview) · [Tüm sürümler](https://github.com/Yusufozkal/karevo/releases)
+[Karevo 3.2.3 sürümünü görüntüle](https://github.com/Yusufozkal/karevo/releases/tag/karevo-v3.2.3-preview) · [Tüm sürümler](https://github.com/Yusufozkal/karevo/releases)
 
-Bu depo Karevo Windows kurucularının ve güncellemelerinin dağıtımı içindir; uygulamanın kaynak kodu burada yayımlanmaz.
+Bu depo Karevo Windows ve Android kurucularının dağıtımı içindir; uygulamanın kaynak kodu burada yayımlanmaz.
 
 <details>
 <summary>Önceki sürümler ve mevcut projelerle uyumluluk</summary>
 
 Karevo, daha önce Bülten Studio adıyla sunuluyordu. Eski adla yayımlanan sürümler arşiv olarak korunur; imzalı otomatik kanaldaki son yayın 3.2.1’dir. Karevo indirmek için bu sayfanın üstündeki bağlantıyı kullan.
 
-Mevcut projelerle uyumluluk için `.bulten` proje biçimi ve uygulamanın veri kimliği korunur. 3.0 ve önceki sürümlerde güncel kurucuyu bir kez elle kurmak gerekir.
+Mevcut Windows verilerinin konumu korunur; eski proje dosyaları açılabilir. Android sürümü ayrı kurulur, eski uygulamanın verilerini otomatik taşımaz. 3.0 ve önceki sürümlerde güncel kurucuyu bir kez elle kurmak gerekir.
 
 Eski depo adresi GitHub tarafından yeni adrese yönlendirilir. İmzalı arşiv dosyaları önceki sürümlerin güncelleme doğrulamasını korumak için değiştirilmez.
 
