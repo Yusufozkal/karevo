@@ -1,78 +1,92 @@
 {
-  "schema": "karevo-preview-upload-v1",
-  "repository": "Yusufozkal/bulten-guncellemeler",
-  "releaseId": 434059977,
-  "tag": "karevo-v3.2.2-preview",
-  "installer": {
-    "fileName": "Karevo-3.2.2-Setup.exe",
-    "bytes": 104449341,
-    "sha256": "152dbb3bf4d17b0b7742416b369b68176b0f9ae1c640e4a818d07780b16d2112"
-  },
-  "chunks": [
+  "schema": "karevo-preview-upload-v2",
+  "repository": "Yusufozkal/karevo",
+  "releaseId": 436595927,
+  "tag": "karevo-v3.2.3-preview",
+  "assets": [
     {
-      "sha": "32f338091186e0b0a358b7175f05230cd724ac10",
-      "bytes": 8388608,
-      "sha256": "45ef282be7aa6e46bb43acfb545292c03572c4aea18bfab22f06be7be132ff77"
+      "fileName": "Karevo-3.2.3-Setup.exe",
+      "bytes": 104497821,
+      "sha256": "68a70dc7189a39405ed5d658e048851d2dcb3f2f485524afb05edb857ef24594",
+      "chunks": [
+        {
+          "sha": "b5487eaf0dd6cd7814f743dae26eee5451c885ff",
+          "bytes": 8388608,
+          "sha256": "31b6f3541ff5e3d75d4f569f39ea52bb0bf4d458e84d833383aa7c4473c56b07"
+        },
+        {
+          "sha": "60f04f09527ed5243093f3afb002d1cfeb0cbacb",
+          "bytes": 8388608,
+          "sha256": "b01551ce78e5643238a7d9a52f8c9b7fc05b1fd7081c5474a4863ce4b78863bb"
+        },
+        {
+          "sha": "3511ac8606a94c11207ff95937212ac52dd9fe75",
+          "bytes": 8388608,
+          "sha256": "d3a3b8d015b4ae270ba734548c897e0aad59a58344ece605cdc2072bb8a8b458"
+        },
+        {
+          "sha": "527c390dd09ef568f006cd274c7405542b4d1c96",
+          "bytes": 8388608,
+          "sha256": "f5819967048b40338878edbb5f32fee96c0cd227527e064600017da8b2641ef9"
+        },
+        {
+          "sha": "b8708c2bb005fe113fb91bea653586afa3d2cc0a",
+          "bytes": 8388608,
+          "sha256": "d0a0b54d42bb925d988455107e7ae2ac361b2b0c890343b2c8dd26771ee22d1e"
+        },
+        {
+          "sha": "d2015a26686097004f84ab7e20f754b2736a76b0",
+          "bytes": 8388608,
+          "sha256": "de81c056e9ec5a7212f3d724434a29ce7ec5a2ffec1f180a8435502fe3b02cf5"
+        },
+        {
+          "sha": "7c01ecc545c7e43539cb7060e84e63dbe894c8a2",
+          "bytes": 8388608,
+          "sha256": "b1d1ac0447bb279da94ecaa016b8effb97899d224458ce7304eb3eec05660852"
+        },
+        {
+          "sha": "dc2d045e7237b44b1336a620a32b944c141bb713",
+          "bytes": 8388608,
+          "sha256": "e1d72bf53448a532ea4f6ceb7c5ec25e2eba2f84954daf8c9fe80d6b65b99cca"
+        },
+        {
+          "sha": "d7ca94c7d197cee2eaae396477d948c2fc6c61f3",
+          "bytes": 8388608,
+          "sha256": "706e82e176f0b280c7c377c2a26491fac5c9041670c858f6a7e44a3f7dec1e78"
+        },
+        {
+          "sha": "070153708081b5d52ad99679210dd514eeb742fc",
+          "bytes": 8388608,
+          "sha256": "b61d0863c524a82477af9a584cb1424f7588bbdbf412a97b71182e14ebb47b47"
+        },
+        {
+          "sha": "2c5841c1c16c2722f43169c2f093410921a1246f",
+          "bytes": 8388608,
+          "sha256": "f91b466ff2a6651b4d2557854af39e94244ac449abeed2e34b75889a053eb11b"
+        },
+        {
+          "sha": "dce3f7036730b2671b1a265ae4a6b3fbfeb7b545",
+          "bytes": 8388608,
+          "sha256": "7917c295e77eed3abcf4cf3af0a9e34e9d2688835976be7b682f96c910190829"
+        },
+        {
+          "sha": "ca2ef7b3174dad7b9e62c9d85ce2b7ae07cb92d6",
+          "bytes": 3834525,
+          "sha256": "040ed46012c49bb891087edfa8c3ec81ad3d1c950ae1a8a04d8e0b9ce14ff67c"
+        }
+      ]
     },
     {
-      "sha": "c157cc2281477e2233183de98b7528faf39eee2b",
-      "bytes": 8388608,
-      "sha256": "ee3d37a51f998a2392a8083f7c05fabc3360f0509b3a9a86948b6595711cdc29"
-    },
-    {
-      "sha": "eb5d0cd21436233a5d6988adfaf8423accc540b0",
-      "bytes": 8388608,
-      "sha256": "7c55bcd92221f5c4866df3add4b548659c700369249a689bb6c616bc3f413d77"
-    },
-    {
-      "sha": "8b2a4d73ffceacca589aff2fc650f4f6fd406520",
-      "bytes": 8388608,
-      "sha256": "eb5a035991c72cb2f59e6cc6dbf2a2a63a4974627fa310bb3c82b96be89fca53"
-    },
-    {
-      "sha": "790503f6cc25946446ba72cb2cfa78b0d6c9cdb0",
-      "bytes": 8388608,
-      "sha256": "49464fecc6aed5ebb1d344be1927db6127c7d5972927e202a90be7e8ff1ce572"
-    },
-    {
-      "sha": "e3e0dccb9bccf883e19cf06f71c97847dc70e33d",
-      "bytes": 8388608,
-      "sha256": "5e59fde3a38c6f0e8ba4dccc4733f5f2cbcc03fd137bc0ed87d3d82ef035ff0c"
-    },
-    {
-      "sha": "3314adcf7bd6baa08afda0019262fee0bbe155c3",
-      "bytes": 8388608,
-      "sha256": "e615db2c0cf1f8036d648610608a1fb01a9b3b47235957a99a47c78af87c7515"
-    },
-    {
-      "sha": "1b95b06b7518001917dcaa67225dfc12b055bd1c",
-      "bytes": 8388608,
-      "sha256": "9df620803c68f504479f709f4cbc1c538005277640c60702b20327708f77591f"
-    },
-    {
-      "sha": "2298041ce3c46329a48a92aa6ffda4ed4a7b2fe3",
-      "bytes": 8388608,
-      "sha256": "a679c546ee8ca39847d63e05e6522d16702003531930769f324781a0a7d55ce1"
-    },
-    {
-      "sha": "02938616e6740bae528fc0770d17dee15b800f9b",
-      "bytes": 8388608,
-      "sha256": "e50c6bca77af5057a68c59702a407f494b5b592e180d90df4dfb1e972b65a951"
-    },
-    {
-      "sha": "e25f91564e88ca8f994792936684836789deaa64",
-      "bytes": 8388608,
-      "sha256": "d0fd8e5996c9ab8f2fb91df9132f595ab5faad950619787d4d7478b0be15acf8"
-    },
-    {
-      "sha": "5c2acfe83fe0c9e4d87920ec92f5f520375c0ad2",
-      "bytes": 8388608,
-      "sha256": "09b27b23c4c6444307f0c7bb8f4b635e08e87dfd66990b491fd20152bbfbcc83"
-    },
-    {
-      "sha": "e8f4ffbfb75175aa1e91992ecefeaf20c2fee16a",
-      "bytes": 3786045,
-      "sha256": "78897480d4148ff78dc2b54bcf51f5cd5160b11c32a3120d582b00e24658f762"
+      "fileName": "Karevo-3.1.3-Android.apk",
+      "bytes": 1026477,
+      "sha256": "af1719f4c1841cb22e579c2f377042bc347c38d5d9588589ce1de4fbb896d183",
+      "chunks": [
+        {
+          "sha": "93da1511b7a3e4f28867484807cc6fa9e51b5c94",
+          "bytes": 1026477,
+          "sha256": "af1719f4c1841cb22e579c2f377042bc347c38d5d9588589ce1de4fbb896d183"
+        }
+      ]
     }
   ]
 }

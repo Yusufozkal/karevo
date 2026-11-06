@@ -1,14 +1,14 @@
-name: Attach verified Karevo preview
+name: Attach verified Karevo 3.2.3 preview
 on:
   workflow_dispatch:
 permissions:
   contents: write
 concurrency:
-  group: attach-karevo-preview
+  group: attach-karevo-323-preview
   cancel-in-progress: false
 jobs:
   attach:
-    if: github.repository == 'Yusufozkal/bulten-guncellemeler' && github.ref == 'refs/heads/main'
+    if: github.repository == 'Yusufozkal/karevo' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
