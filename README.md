@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/bulten-banner.svg" alt="Karevo — sosyal medya içerikleri için tasarım ve video düzenleme" width="100%">
+  <img src="assets/karevo-banner.svg" alt="Karevo — sosyal medya içerikleri için tasarım ve video düzenleme" width="100%">
 
   **Hikâyeni tasarla, düzenle ve paylaşmaya hazırla.**
 
